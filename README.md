@@ -20,8 +20,8 @@ This folder includes a .txt file containing a Google Drive link. In that Google 
 
 ### 3. Image Folder
 This folder contains 4 figures generated from the 2023 holiday season:
-1. **Average Delay Time by Airline in 2023 Holiday season.png**: Bar chart showing averag dalay time for different ariline.
+1. **Average Delay Time by Airline in 2023 Holiday season.png**: Bar chart showing average dalay time for different airline.
 2. **Average Delay Time by Scheduled Departure Time during 2023 Holiday Season.png**: Line chart showing the average delay time for different scheduled departure times throughout the day across various days of the week.
-3. **Cancelled Rate by Airline in 2023 Holiday season.png**: Bar chart showing flight cancelled rate for different ariline.
+3. **Cancelled Rate by Airline in 2023 Holiday season.png**: Bar chart showing flight cancelled rate for different airline.
 4. **Cancelled Rate by Scheduled Departure Time during 2023 Holiday Season.png**: Line chart showing the flight cancelled rate for different scheduled departure times throughout the day across various days of the week.
 
