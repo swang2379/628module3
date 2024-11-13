@@ -14,7 +14,7 @@ This folder contains the code for data cleaning, analysis, and building the Shin
 
 ### 2. Data Folder
 This folder includes a .txt file containing a Google Drive link. In that Google Drive, there is a folder named data with data from three zips inside.
-1. **1_flight.zip**: A zip file contians historical flight data on holiday season(Nov. 1st to Jan. 31st) from 2018 to 2024. The data is from [Bureau of Transportation Statistics](www.transtats.bts.gov).
+1. **1_flight.zip**: A zip file contians historical flight data on holiday season(Nov. 1st to Jan. 31st) from 2018 to 2024. The data is from [Bureau of Transportation Statistics](https://www.transtats.bts.gov/).
 2. **climate.zip**: A zip file contians historical climate data on holiday season(Nov. 1st to Jan. 31st) from 2018 to 2024. The data is from [NCEI Object Store Explorer](www.ncei.noaa.gov/oa/local-climatological-data/index.html#v2/).
 3. **combined_data.zip**: A zip file contians the merged and cleaned data on holiday season(Nov. 1st to Jan. 31st) from 2018 to 2024.
 
