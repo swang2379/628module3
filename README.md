@@ -24,6 +24,8 @@ This folder contains 4 figures generated from the 2023 holiday season:
 1. **Average Delay Time by Airline in 2023 Holiday season.png**: Bar chart showing average delay time for different airlines.
 2. **Average Delay Time by Scheduled Arrival Time during 2023 Holiday Season.png**: Line chart showing the average delay times for different scheduled arrival time throughout the day across various days of the week.
 3. **Average Delay Time by Scheduled Departure Time during 2023 Holiday Season.png**: Line chart showing the average delay time for different scheduled departure times throughout the day across various days of the week.
-5. **Cancelled Rate by Airline in 2023 Holiday season.png**: Bar chart showing flight cancelled rate for different airlines.
-6. **Cancelled Rate by Scheduled Departure Time during 2023 Holiday Season.png**: Line chart showing the flight cancelled rate for different scheduled departure times throughout the day across various days of the week.
+4. **Cancelled Rate by Airline in 2023 Holiday season.png**: Bar chart showing flight cancelled rate for different airlines.
+5. **Cancelled Rate by Scheduled Departure Time during 2023 Holiday Season.png**: Line chart showing the flight cancelled rate for different scheduled departure times throughout the day across various days of the week.
+6. **Random Forest Feature Importances for Cancel.png**: Line chart showing the random forest result of cancelled filghts model.
+7. **Random Forest Feature Importances for Delay.png**: Line chart showing the random forest result of delay flights model.
 
