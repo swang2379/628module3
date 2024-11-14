@@ -29,3 +29,40 @@ This folder contains 4 figures generated from the 2023 holiday season:
 6. **Random Forest Feature Importances for Cancel.png**: Line chart showing the random forest result of cancelled filghts model.
 7. **Random Forest Feature Importances for Delay.png**: Line chart showing the random forest result of delay flights model.
 
+### 4. Summary File
+- **STAT628 Module3 Summary.pdf.pdf**: A two-page summary of the project, including an overview of the analysis and key findings.
+
+### 5. Presentation
+- **stat628_group8_module3.pptx**: The final presentation slides used during the project presentation.
+
+## How to Use the Code
+
+### Prerequisites
+Make sure you have R and the necessary packages installed `FNN`, `ggplot`, `glmnet`, `car`, `shiny`. You can install missing packages with the following command:
+
+```bash
+pip install scikit-learn matplotlib glmnet statsmodels shiny
+```
+The version for these packages are shown below:
+- scikit-learn>=1.1.4
+- matplotlib>=3.5.1
+- glmnet>=4.1.8
+- statsmodels>=0.14.0
+- shiny>=1.9.1
+
+  
+## Running the Analysis
+1. Open and run **analysis.Rmd** to perform the data cleaning, model building, and analysis.
+2. If you want to see the Shiny app, use [Shiny App](https://stat628module3.shinyapps.io/apppy/).
+
+## Contact
+For any questions or inquiries about this project, feel free to contact:
+- **Meiyi Yan**: myan49@wisc.edu
+- **Siyu Wang**: swang2379@wisc.edu
+- **Minyuan Zhao**: mzhao246@wisc.edu
+
+## Acknowledgements
+We would like to thank all contributors and open-source libraries used in this project.
+
+## Contributing
+Contributions are welcome! If you have suggestions or improvements, feel free to open an issue or submit a pull request. Please review the contribution guidelines in the `CONTRIBUTING.md` file.
