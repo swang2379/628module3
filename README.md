@@ -62,10 +62,10 @@ matplotlib>=3.8.2
 nest_asyncio>=1.5.1
 requests>=2.25.0
 seaborn>=0.11.0
-
+```
   
 ## Running the Analysis
-1. Open and run **analysis.Rmd** to perform the data cleaning, model building, and analysis.
+1. Using files in code folder to perform the data cleaning, model building, and analysis.
 2. If you want to see the Shiny app, use [Shiny App](https://stat628module3.shinyapps.io/apppy/).
 
 ## Contact
