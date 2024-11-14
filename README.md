@@ -38,7 +38,7 @@ This folder contains 4 figures generated from the 2023 holiday season:
 ## How to Use the Code
 
 ### Prerequisites
-Make sure you have R and the necessary packages installed `FNN`, `ggplot`, `glmnet`, `car`, `shiny`. You can install missing packages with the following command:
+Make sure you have Python and the necessary packages installed as shows below. You can install missing packages with the following command:
 
 ```bash
 pip install -r requirements.txt
