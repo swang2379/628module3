@@ -42,6 +42,7 @@ Make sure you have R and the necessary packages installed `FNN`, `ggplot`, `glmn
 
 ```bash
 pip install -r requirements.txt
+```
 
 Additionally, create a `requirements.txt` file to specify versions (if any) to ensure compatibility. For example:
 
