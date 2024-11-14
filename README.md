@@ -10,7 +10,7 @@ This folder contains the code for data cleaning, analysis, and building the Shin
 2. **visualization.ipynb**: A jupyter notebook file used to visualize data.
 3. **null**: A jupyter notebook file used to merge data and clean data.
 4. **null**: A jupyter notebook file used to fit data.
-5. **null**: A jupyter notebook file used to create Shiny app.
+5. **app.py**: A py file used to create Shiny app.
 
 ### 2. Data Folder
 This folder includes a .txt file containing a Google Drive link. In that Google Drive, there is a folder named data with data from three zips inside.
