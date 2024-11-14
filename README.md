@@ -28,6 +28,9 @@ This folder contains 4 figures generated from the 2023 holiday season:
 5. **Cancelled Rate by Scheduled Departure Time during 2023 Holiday Season.png**: Line chart showing the flight cancelled rate for different scheduled departure times throughout the day across various days of the week.
 6. **Random Forest Feature Importances for Cancel.png**: Line chart showing the random forest result of cancelled filghts model.
 7. **Random Forest Feature Importances for Delay.png**: Line chart showing the random forest result of delay flights model.
+8. **Partial dependence plot for Arrival_HourlyDryBulbTemperature.png**: The partial dependence plot for Arrival_HourlyDryBulbTemperature.
+9. **Partial dependence plot for Arrival_HourlySeaLevelPressure.png**: The partial dependence plot for Arrival_HourlySeaLevelPressure.
+
 
 ### 4. Summary File
 - **STAT628 Module3 Summary.pdf.pdf**: A two-page summary of the project, including an overview of the analysis and key findings.
