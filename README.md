@@ -41,14 +41,26 @@ This folder contains 4 figures generated from the 2023 holiday season:
 Make sure you have R and the necessary packages installed `FNN`, `ggplot`, `glmnet`, `car`, `shiny`. You can install missing packages with the following command:
 
 ```bash
-pip install scikit-learn matplotlib glmnet statsmodels shiny
-```
-The version for these packages are shown below:
-- scikit-learn>=1.1.4
-- matplotlib>=3.5.1
-- glmnet>=4.1.8
-- statsmodels>=0.14.0
-- shiny>=1.9.1
+pip install -r requirements.txt
+
+Additionally, create a `requirements.txt` file to specify versions (if any) to ensure compatibility. For example:
+
+```plaintext
+tqdm>=4.62.0
+numpy>=1.21.0
+geopy>=2.2.0
+psutil>=5.8.0
+shiny>=1.2.0
+pandas>=2.2.0
+folium>=0.18.0
+geopy>=2.4.1
+scikit-learn>=1.4.0
+joblib>=1.3.2
+numpy>=1.26.4
+matplotlib>=3.8.2
+nest_asyncio>=1.5.1
+requests>=2.25.0
+seaborn>=0.11.0
 
   
 ## Running the Analysis
